@@ -13,12 +13,11 @@ body {
   align-items: center;
   margin: 0;
   overflow-x: hidden;
-  /*JS sonrası*/
 }
 
 h1 {
   margin: 10px;
-  color: #fff;
+  color: #ffff;
   text-underline-position: below;
   background-position: 0cm;
 }
@@ -30,7 +29,7 @@ h1 {
   justify-content: center;
   width: 500px;
   height: 220px;
-  margin: 10px;
+  margin: 11px;
   box-shadow: 3px 3px 10px rgb(207, 39, 39);
   border: 2px solid #944000;
   border-radius: 20px;
